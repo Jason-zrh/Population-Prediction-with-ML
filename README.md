@@ -33,3 +33,14 @@ f) How could you improve your estimates of the future population?
 # 3. Data Source: World Bank
 Repeat Question 2 for your own country’s population from 1950 to 2022. You may download the data from 
 the World Bank: https://data.worldbank.org/indicator/SP.POP.TOTL
+
+
+# ============== Experiment Optimization =============
+# Comparison of various model data fitting
+<img width="1368" height="1211" alt="image" src="https://github.com/user-attachments/assets/675909cd-a160-4b00-97a0-7739992f3882" />
+<img width="1000" height="560" alt="93b292a33d41dafbd7d53de5e49c9ab5" src="https://github.com/user-attachments/assets/37f987c4-af92-46ca-8557-1640a19485a4" />
+<img width="1000" height="560" alt="a59ae28659e1ddd95dacb8569838a815" src="https://github.com/user-attachments/assets/c89bd2e5-2350-4012-96c3-ecc64db5f7ff" />
+<img width="1000" height="560" alt="6b71f0727a7c0367ff3a21fbe0dd115b" src="https://github.com/user-attachments/assets/85548497-25cc-467f-a7af-4b47bbbdb371" />
+
+
+
