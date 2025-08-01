@@ -35,7 +35,7 @@ Repeat Question 2 for your own country’s population from 1950 to 2022. You may
 the World Bank: https://data.worldbank.org/indicator/SP.POP.TOTL
 
 
-# Experiment Optimization 
+# Experiment Optimization_v2
 ## Comparison of various model data fitting
 <img width="1368" height="1211" alt="image" src="https://github.com/user-attachments/assets/675909cd-a160-4b00-97a0-7739992f3882" />
 <img width="1000" height="560" alt="93b292a33d41dafbd7d53de5e49c9ab5" src="https://github.com/user-attachments/assets/37f987c4-af92-46ca-8557-1640a19485a4" />
