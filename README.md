@@ -1,6 +1,6 @@
 # Population-Prediction-with-ML
 
-1. Introduction and Reading Assignment 
+# 1. Introduction and Reading Assignment 
 In this project, we will look at the human population statistics collected by the various national governments 
 and build a machine learning model to make population predictions. 
 
@@ -10,7 +10,7 @@ https://www.nature.com/scitable/knowledge/library/an-introduction-to-population-
 
 
 
-3. Data Source: Singapore Department of Statistics (SingStat) 
+# 2. Data Source: Singapore Department of Statistics (SingStat) 
 Let’s start with looking at the population statistics of Singapore.
 Download Singapore population data from 1950 to 2022 from: https://www.singstat.gov.sg/
 a) Graph the total population vs year.
@@ -30,6 +30,6 @@ e) What pattern do you expect for human population growth in Singapore?
 
 f) How could you improve your estimates of the future population?
 
-5. Data Source: World Bank
+# 3. Data Source: World Bank
 Repeat Question 2 for your own country’s population from 1950 to 2022. You may download the data from 
 the World Bank: https://data.worldbank.org/indicator/SP.POP.TOTL
